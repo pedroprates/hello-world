@@ -4,12 +4,12 @@ h1 {
 }
 
 .name {
-	text-align: right;
+	text-align: left;
 	color: gray;
 	font-weight: bold;
 }
 
 .title {
-	text-align: right;
+	text-align: left;
 	color: gray;
 }
